@@ -53,7 +53,7 @@ sudo pacman -S mysql
 
 ![Request和Response的关系](./request_response.png)
 
-#### Request 
+#### Request
 
 1. 常用的几种类型：
 
@@ -76,4 +76,4 @@ sudo pacman -S mysql
 
 ![firefox_example2](firefox_example2.png)
 
-
+图中，1处为消息头（HEADERS），用于存储基础的请求信息，包括服务器主机，访问的网络协议，
